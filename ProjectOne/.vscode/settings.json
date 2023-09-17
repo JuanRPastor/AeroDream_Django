@@ -1,0 +1,13 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#0fbd23",
+        "titleBar.activeBackground": "#0f661c",
+        "titleBar.activeForeground": "#FAFBFA"
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "python.analysis.typeCheckingMode": "off",
+    "liveServer.settings.multiRootWorkspaceName": "ProjectOne"
+}
